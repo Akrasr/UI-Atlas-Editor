@@ -5,24 +5,24 @@ The tool for editing UIAtlas files in AJ, AAI and AAI2 mobile ports
 Some of the interfaces' images are saved as atlases. Atlas is the image that contains the other images used somewhere. These atlases contain images of UI elements. So the game loads these images from atlas by cutting them from it. UIAtlas is the class, objects of which contain all information about how to cut images from atlases and how to place them right.
 
 # Where are the UIAtlas files that I will need to edit?
-AJ:
-Title Atlas: in sharedassets 4 with File id being equal 120
-Options Atlas: faa765654f656a84eb69f5118270dd22
-SaveLoad Atlas: cd82c3e2ce004ff4c9145891d8718a8a
-NamePlate Atlas: 190392c10e17c4f7d81f4d0aa082dfde
-AAI:
-Title Atlas: sharedassets5 (if you will extract everything from it with UnityEX the name of file you need is "sharedassets5_00001.-3")
-Dialog Atlas: sharedassets1 ("sharedassets1_00001.-9")
-Options Atlas: sharedassets1 ("sharedassets1_00003.-9")
-Retry Atlas: sharedassets1 ("sharedassets1_00004.-9")
-SaveLoad Atlas: sharedassets1 ("sharedassets1_00005.-9" or "sharedassets1_00007.-9")
-AAI2:
-Episode Select Atlas: 3f05dd507ac1943489a86adf731cc966
-Title Atlas: 6bc2c5a5e39fd43768b9c3ead893bbed
-Dialog Atlas: 0eb7eaece68ca47229d1f4807fd659f9
-Options Atlas: 5feea654de648420f91535b98332b779
-Retry Atlas: fe6876381a12e5148a0a6fc95e926848
-SaveLoad Atlas: 539b3f0e6339f48debff1761d3f06f38 and 3a9d8ee405ae7430ba263b6ae3647fa1
+AJ:<br>
+Title Atlas: in sharedassets 4 with File id being equal 120<br>
+Options Atlas: faa765654f656a84eb69f5118270dd22<br>
+SaveLoad Atlas: cd82c3e2ce004ff4c9145891d8718a8a<br>
+NamePlate Atlas: 190392c10e17c4f7d81f4d0aa082dfde<br>
+AAI:<br>
+Title Atlas: sharedassets5 (if you will extract everything from it with UnityEX the name of file you need is "sharedassets5_00001.-3")<br>
+Dialog Atlas: sharedassets1 ("sharedassets1_00001.-9")<br>
+Options Atlas: sharedassets1 ("sharedassets1_00003.-9")<br>
+Retry Atlas: sharedassets1 ("sharedassets1_00004.-9")<br>
+SaveLoad Atlas: sharedassets1 ("sharedassets1_00005.-9" or "sharedassets1_00007.-9")<br>
+AAI2:<br>
+Episode Select Atlas: 3f05dd507ac1943489a86adf731cc966<br>
+Title Atlas: 6bc2c5a5e39fd43768b9c3ead893bbed<br>
+Dialog Atlas: 0eb7eaece68ca47229d1f4807fd659f9<br>
+Options Atlas: 5feea654de648420f91535b98332b779<br>
+Retry Atlas: fe6876381a12e5148a0a6fc95e926848<br>
+SaveLoad Atlas: 539b3f0e6339f48debff1761d3f06f38 and 3a9d8ee405ae7430ba263b6ae3647fa1<br>
 
 # How can I edit the images from atlas texture?
 Use Photoshop or Paint Tool Sai or whatever you use to edit graphics.
