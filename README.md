@@ -36,4 +36,4 @@ Use Photoshop or Paint Tool Sai or whatever you use to edit graphics.
 Edit paddings of an image. For example, if your image is higher by 4 pixels than the original, add -2 to PaddingTop and PaddingBottom. And if it's longer by 6 add -3 to PaddingLeft and PaddingRight.
 
 # I want to change position of UI element on the screen. How can I do that?
-You can edit paddings for that purposes. For example, if you need to place an Image to 2 pixels higher, add -2 to PaddingTop and 2 to PaddingBottom.
+You can edit paddings for these purposes. For example, if you need to place an Image to 2 pixels higher, add -2 to PaddingTop and 2 to PaddingBottom.
