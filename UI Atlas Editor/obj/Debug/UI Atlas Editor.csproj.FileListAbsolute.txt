@@ -1,0 +1,10 @@
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\bin\Debug\UI Atlas Editor.exe.config
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\bin\Debug\UI Atlas Editor.exe
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\bin\Debug\UI Atlas Editor.pdb
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\obj\Debug\UI Atlas Editor.csproj.AssemblyReference.cache
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\obj\Debug\UI_Atlas_Editor.Form1.resources
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\obj\Debug\UI_Atlas_Editor.Properties.Resources.resources
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\obj\Debug\UI Atlas Editor.csproj.GenerateResource.cache
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\obj\Debug\UI Atlas Editor.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\obj\Debug\UI Atlas Editor.exe
+C:\Users\userpc\source\repos\UI Atlas Editor\UI Atlas Editor\obj\Debug\UI Atlas Editor.pdb
